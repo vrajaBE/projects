@@ -1,0 +1,11 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "My new project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  
+  "devDependencies": {}
+}
